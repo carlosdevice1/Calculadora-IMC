@@ -37,7 +37,7 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 <h3>Sessão Principal:</h3>
 
-![Começo] 
+![Começo] ![Sem título](https://user-images.githubusercontent.com/70172954/148544727-c31fee31-8742-462b-8358-03678a9fab0d.png)
 
 <h3>Sessão Principal mostrando o IMC:</h3>
 
