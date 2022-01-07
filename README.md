@@ -12,7 +12,7 @@
  <li><a href="#sobre">Sobre</a></li>
  <li><a href="#tecnologias">Técnologias usadas</a></li> 
  <li><a href="#sessao">sessão da página</a></li>
- <li><a href="#autor">Autor</a></li> 
+ 
 </ul>
 
 <h2 id="sobre">Sobre</h2>
@@ -37,9 +37,9 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 <h3>Sessão Principal:</h3>
 
-![Começo] ![Sem título](https://user-images.githubusercontent.com/70172954/148544727-c31fee31-8742-462b-8358-03678a9fab0d.png)
+ ![Sem título](https://user-images.githubusercontent.com/70172954/148544727-c31fee31-8742-462b-8358-03678a9fab0d.png)
 
 <h3>Sessão Principal mostrando o IMC:</h3>
 
-![Começo] 
-
+ ![Sem título2](https://user-images.githubusercontent.com/70172954/148544879-73ec1493-6ce8-4643-905d-8aa91dea1d5f.png)
+ 
